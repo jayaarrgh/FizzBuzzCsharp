@@ -1,0 +1,5 @@
+C:\Users\jayaarrgh\Documents\lc101\CsharpWork\FizzBuzzCsharp\FizzBuzzCsharp\bin\Debug\FizzBuzzCsharp.exe.config
+C:\Users\jayaarrgh\Documents\lc101\CsharpWork\FizzBuzzCsharp\FizzBuzzCsharp\bin\Debug\FizzBuzzCsharp.exe
+C:\Users\jayaarrgh\Documents\lc101\CsharpWork\FizzBuzzCsharp\FizzBuzzCsharp\bin\Debug\FizzBuzzCsharp.pdb
+C:\Users\jayaarrgh\Documents\lc101\CsharpWork\FizzBuzzCsharp\FizzBuzzCsharp\obj\Debug\FizzBuzzCsharp.exe
+C:\Users\jayaarrgh\Documents\lc101\CsharpWork\FizzBuzzCsharp\FizzBuzzCsharp\obj\Debug\FizzBuzzCsharp.pdb
